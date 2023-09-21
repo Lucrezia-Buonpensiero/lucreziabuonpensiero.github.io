@@ -1,4 +1,4 @@
-## Portfolio dei progetti universitari riguardanti lo sviluppo Frontend
+## Portfolio dei progetti universitari
 
 
 Credits:
